@@ -1,0 +1,8 @@
+[25-Sep-2022 22:29:00 America/Denver] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/saegthco/public_html/public/plugins/PHPExcel/Writer/Abstract.php on line 29
+[25-Sep-2022 22:29:03 America/Denver] PHP Fatal error:  Class 'PHPExcel_Writer_Abstract' not found in /home/saegthco/public_html/public/plugins/PHPExcel/Writer/CSV.php on line 28
+[25-Sep-2022 22:29:06 America/Denver] PHP Fatal error:  Class 'PHPExcel_Writer_Abstract' not found in /home/saegthco/public_html/public/plugins/PHPExcel/Writer/Excel5.php on line 28
+[25-Sep-2022 22:29:08 America/Denver] PHP Fatal error:  Class 'PHPExcel_Writer_Abstract' not found in /home/saegthco/public_html/public/plugins/PHPExcel/Writer/Excel2007.php on line 28
+[25-Sep-2022 22:29:10 America/Denver] PHP Fatal error:  Class 'PHPExcel_Exception' not found in /home/saegthco/public_html/public/plugins/PHPExcel/Writer/Exception.php on line 29
+[25-Sep-2022 22:29:13 America/Denver] PHP Fatal error:  Class 'PHPExcel_Writer_Abstract' not found in /home/saegthco/public_html/public/plugins/PHPExcel/Writer/HTML.php on line 28
+[25-Sep-2022 22:29:17 America/Denver] PHP Fatal error:  Class 'PHPExcel_Writer_Abstract' not found in /home/saegthco/public_html/public/plugins/PHPExcel/Writer/OpenDocument.php on line 28
+[25-Sep-2022 22:29:20 America/Denver] PHP Fatal error:  Interface 'PHPExcel_Writer_IWriter' not found in /home/saegthco/public_html/public/plugins/PHPExcel/Writer/PDF.php on line 29

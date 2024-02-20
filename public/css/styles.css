@@ -1,0 +1,128 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.fa-pulse{
+  animation: fa-spin 1s steps(8, end) infinite;
+  animation-name: fa-spin;
+  animation-duration: 1s;
+  animation-timing-function: steps(8, end);
+  animation-delay: initial;
+  animation-iteration-count: infinite;
+  animation-direction: initial;
+  animation-fill-mode: initial;
+  animation-play-state: initial;
+}
+
+
+@font-face {
+  font-family: 'Helvetica Neue';
+  src: url('../fonts/HelveticaNeue-Bold.otf');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Helvetica Neue';
+  src: url('../fonts/HelveticaNeue-BoldItalic.otf');
+  font-weight: bold;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Helvetica Neue';
+  src: url('../fonts/HelveticaNeue-CondensedBold.otf');
+  font-weight: bold;
+  font-stretch: condensed;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Helvetica Neue';
+  src: url('../fonts/HelveticaNeue-CondensedBlack.otf');
+  font-weight: normal;
+  font-stretch: condensed;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Helvetica Neue';
+  src: url('../fonts/HelveticaNeue.otf');
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Helvetica Neue';
+  src: url('../fonts/HelveticaNeue-Italic.otf');
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Helvetica Neue';
+  src: url('../fonts/HelveticaNeue-Medium.otf');
+  font-weight: medium;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Helvetica Neue';
+  src: url('../fonts/HelveticaNeue-Light.otf');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Helvetica Neue';
+  src: url('../fonts/HelveticaNeue-UltraLightItalic.otf');
+  font-weight: 100;
+  font-style: italic;
+}
+/* Global */
+* { margin: 0; padding: 0;}
+html,
+body {
+  font-family: 'Helvetica Neue';
+  margin:0;
+  padding:0;
+  font-size: 13px;
+  width:100%;
+  height:100%;
+  background-color: #F5F5F5 !important;
+}
+
+.vertical-center{
+  margin-top: 69.5px;
+}
+.course-info{
+  background: url('../img/bg-t.svg');
+  margin-top: 20px;
+  padding: 40px 0;
+  border-top: 4px solid #ccc;
+  border-bottom: 4px solid #ccc;
+}
+
+.page-width, .alde{
+  max-width: 1780px;
+  min-width: 1000px;
+  width: 75%;
+  margin: 0 auto;
+}
+
+#footer{
+  margin-top: 50px;
+}
+
+.slick-slide img {
+  display: block;
+  max-width: 800px;
+  max-height: 380px;
+  margin: 10px;
+}
+
+.badge{
+    right: 20px !important;
+    position: absolute !important;
+    background: red !important;
+}
+
+@media only screen and (max-width: 1435px) {
+  .page-width, .alde{
+    width: 80%;
+    margin: 0 auto;
+  }
+}

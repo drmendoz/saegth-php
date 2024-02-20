@@ -1,0 +1,9 @@
+[25-Sep-2022 22:27:30 America/Denver] PHP Fatal error:  Class 'PHPExcel_Style_Supervisor' not found in /home/saegthco/public_html/public/plugins/PHPExcel/Style/Alignment.php on line 27
+[25-Sep-2022 22:27:33 America/Denver] PHP Fatal error:  Class 'PHPExcel_Style_Supervisor' not found in /home/saegthco/public_html/public/plugins/PHPExcel/Style/Border.php on line 28
+[25-Sep-2022 22:27:36 America/Denver] PHP Fatal error:  Class 'PHPExcel_Style_Supervisor' not found in /home/saegthco/public_html/public/plugins/PHPExcel/Style/Borders.php on line 28
+[25-Sep-2022 22:27:38 America/Denver] PHP Fatal error:  Class 'PHPExcel_Style_Supervisor' not found in /home/saegthco/public_html/public/plugins/PHPExcel/Style/Color.php on line 28
+[25-Sep-2022 22:27:41 America/Denver] PHP Fatal error:  Interface 'PHPExcel_IComparable' not found in /home/saegthco/public_html/public/plugins/PHPExcel/Style/Conditional.php on line 37
+[25-Sep-2022 22:27:44 America/Denver] PHP Fatal error:  Class 'PHPExcel_Style_Supervisor' not found in /home/saegthco/public_html/public/plugins/PHPExcel/Style/Fill.php on line 28
+[25-Sep-2022 22:27:47 America/Denver] PHP Fatal error:  Class 'PHPExcel_Style_Supervisor' not found in /home/saegthco/public_html/public/plugins/PHPExcel/Style/Font.php on line 28
+[25-Sep-2022 22:27:49 America/Denver] PHP Fatal error:  Class 'PHPExcel_Style_Supervisor' not found in /home/saegthco/public_html/public/plugins/PHPExcel/Style/NumberFormat.php on line 28
+[25-Sep-2022 22:27:51 America/Denver] PHP Fatal error:  Class 'PHPExcel_Style_Supervisor' not found in /home/saegthco/public_html/public/plugins/PHPExcel/Style/Protection.php on line 28

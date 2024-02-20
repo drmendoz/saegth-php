@@ -1,0 +1,3 @@
+[25-Sep-2022 22:24:43 America/Denver] PHP Fatal error:  Class 'PHPExcel_Chart_Properties' not found in /home/saegthco/public_html/public/plugins/PHPExcel/Chart/Axis.php on line 11
+[25-Sep-2022 22:24:52 America/Denver] PHP Fatal error:  Class 'PHPExcel_Exception' not found in /home/saegthco/public_html/public/plugins/PHPExcel/Chart/Exception.php on line 29
+[25-Sep-2022 22:24:54 America/Denver] PHP Fatal error:  Class 'PHPExcel_Chart_Properties' not found in /home/saegthco/public_html/public/plugins/PHPExcel/Chart/GridLines.php on line 11

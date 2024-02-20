@@ -1,0 +1,2199 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"JSO",
+				"JSON_PRETTY_PRINT"
+			],
+			[
+				"val",
+				"value_"
+			],
+			[
+				"ke",
+				"key_"
+			],
+			[
+				"ar",
+				"array	$… = array (…)"
+			],
+			[
+				"nombre",
+				"nombre_test"
+			],
+			[
+				"cal",
+				"CalifDesemp"
+			],
+			[
+				"arr",
+				"array	$… = array (…)"
+			],
+			[
+				"a",
+				"abs"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"compass",
+				"compass_test"
+			],
+			[
+				"id",
+				"id_p"
+			],
+			[
+				"if",
+				"if?	$… = ( … ) ? … : …"
+			],
+			[
+				"tr",
+				"trf-sc	transform: scale(${1:x}, ${2:y});"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"select",
+				"select	Tag"
+			],
+			[
+				"desar",
+				"desarrollar"
+			],
+			[
+				"plan",
+				"plan_de_accion_xls"
+			],
+			[
+				"IN",
+				"IN"
+			],
+			[
+				"mul",
+				"multifuente_oportunidades"
+			],
+			[
+				"co",
+				"cod_evaluado"
+			],
+			[
+				"mult",
+				"multifuente_evaluado"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"b",
+				"bxsh	box-shadow: ${1:inset }${2:hoff} ${3:voff} ${4:blur} ${5:color};"
+			],
+			[
+				"sha",
+				"box-shadow"
+			],
+			[
+				"bgsz",
+				"bgsz-cv	background-size: cover;"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"bgr",
+				"bgr-n	background-repeat: no-repeat;"
+			],
+			[
+				"stock",
+				"stock_array"
+			],
+			[
+				"Ok",
+				"Ok"
+			],
+			[
+				"Almacen",
+				"Almacen"
+			],
+			[
+				"almacen",
+				"almacen__nombre"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"word",
+				"word-break"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"strt",
+				"strtolower"
+			],
+			[
+				"m",
+				"ml	margin-left"
+			],
+			[
+				"ii",
+				"inherit"
+			],
+			[
+				"RESPON",
+				"response"
+			],
+			[
+				"com",
+				"com"
+			],
+			[
+				"alm",
+				"almacen__nombre"
+			],
+			[
+				"cATEGORIA",
+				"Categoria"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"empres",
+				"empresa_area"
+			],
+			[
+				"user",
+				"user_rol"
+			],
+			[
+				"field",
+				"field_lookup"
+			],
+			[
+				"From",
+				"FROM"
+			],
+			[
+				"sql",
+				"sql_array"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"_",
+				"$_	POST['…']"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"JSON",
+				"json_encode"
+			],
+			[
+				"tco",
+				"tconts"
+			],
+			[
+				"tconts",
+				"tconts_array"
+			],
+			[
+				"array",
+				"array	$… = array (…)"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"empresa",
+				"empresa_tcont"
+			],
+			[
+				"periodo",
+				"periodo"
+			],
+			[
+				"Empresa",
+				"Empresa"
+			],
+			[
+				"count",
+				"count_array"
+			],
+			[
+				"usuario",
+				"usuario_n"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"childre",
+				"children_string"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"post",
+				"posts_array"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"filtr",
+				"filtros"
+			],
+			[
+				"filtro",
+				"filtro_sql"
+			],
+			[
+				"matriz_",
+				"matriz_filtros"
+			],
+			[
+				"filt",
+				"filtro_sql"
+			],
+			[
+				"prom",
+				"prompt_result"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"Nom",
+				"NOMBRE"
+			],
+			[
+				"col",
+				"col_end"
+			],
+			[
+				"me",
+				"metas"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"sco",
+				"scorer"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"getCom",
+				"getCompass_360"
+			],
+			[
+				"Listado_per",
+				"listado_personal_op"
+			],
+			[
+				"functi",
+				"function"
+			],
+			[
+				"scorec",
+				"scorecard"
+			],
+			[
+				"get",
+				"getData"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"obj",
+				"obj_metas"
+			],
+			[
+				"setWidt",
+				"SetWidths"
+			],
+			[
+				"width",
+				"width1"
+			],
+			[
+				"widt",
+				"width2"
+			],
+			[
+				"wid",
+				"width1"
+			],
+			[
+				"f",
+				"foreach	foreach …"
+			],
+			[
+				"path",
+				"area_path"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"nivl",
+				"nivel_max"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"funct",
+				"function"
+			],
+			[
+				"cla",
+				"Class"
+			],
+			[
+				"htmlpr",
+				"htmlprnt"
+			],
+			[
+				"form",
+				"form_body"
+			],
+			[
+				"url",
+				"urlArray"
+			],
+			[
+				"ln",
+				"Ln"
+			],
+			[
+				"fot",
+				"fortalezas"
+			],
+			[
+				"glo",
+				"GLOBALS"
+			],
+			[
+				"function",
+				"create_function"
+			],
+			[
+				"por",
+				"porcentajes"
+			],
+			[
+				"riesgo",
+				"riesgo_psicosocial"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"num",
+				"number_format"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"_get",
+				"_getValueType"
+			],
+			[
+				"_g",
+				"_getValueType"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"hre",
+				"href	Attr"
+			],
+			[
+				"date",
+				"datepost"
+			],
+			[
+				"lis",
+				"listado_personal_op"
+			],
+			[
+				"htmlprnt",
+				"htmlprnt_win"
+			],
+			[
+				"idi",
+				"indice"
+			],
+			[
+				"fil",
+				"filtros"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"the",
+				"the_title"
+			],
+			[
+				"base",
+				"base64_decode"
+			],
+			[
+				"t",
+				"t"
+			],
+			[
+				"nivel",
+				"nivel_max"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<?php  \nif(!$denied){\n	?>\n	<script src=\"<?php echo BASEURL ?>public/js/angular.min.js\"></script>\n	<h3>Preparando información para la descarga</h3>\n	<p>&nbsp;</p>\n	<div ng-app=\"myApp\" ng-controller=\"formCtrl\">\n		<pre ng-if=\"cache\">Cargando último reporte generado el: {{latest}}</pre>\n		<div class=\"progress\">\n			<div class=\"progress-bar progress-bar-success\" role=\"progressbar\" aria-valuenow=\"{{CalifDesemp.progress}}\" aria-valuemin=\"0\" aria-valuemax=\"100\" ng-style=\"{width : ( CalifDesemp.progress + '%' ) }\">\n				{{CalifDesemp.progress | number:2}}% Preparando \"Calificación ponderada de desempeño\"\n			</div>\n		</div>\n		<div class=\"progress\">\n			<div class=\"progress-bar progress-bar-success\" role=\"progressbar\" aria-valuenow=\"{{CompassTest.progress}}\" aria-valuemin=\"0\" aria-valuemax=\"100\" ng-style=\"{width : ( CompassTest.progress + '%' ) }\">\n				{{CompassTest.progress | number:2}}% Preparando \"Calificación Compass 360\"\n			</div>\n		</div>\n		<p>&nbsp;</p>\n		<a ng-show=\"CompassTest.progress==100\" href=\"{{baseurl + 'pdf/descarga'}}\" >Descargar</a>\n		<div class=\"row form-group col-md-12 table-responsive\">\n\n		</div>\n	</div>\n\n	<script type=\"text/javascript\">\n		var app = angular.module('myApp',[]);\n		app.filter('unsafe', function($sce) { return $sce.trustAsHtml; });\n		app.filter('iif', function () {\n			return function(input, trueValue, falseValue) {\n				return input ? trueValue : falseValue;\n			};\n		});\n		app.directive('compile', ['$compile', function ($compile) {\n			return function(scope, element, attrs) {\n				scope.$watch(\n					function(scope) {\n						return scope.$eval(attrs.compile);\n					},\n					function(value) {\n						element.html(value);\n						$compile(element.contents())(scope);\n					}\n					)};\n			}]);\n\n		app.controller('formCtrl', function($scope,$log,$window,$location,$timeout, $http, $sce) {\n			$scope.baseurl = $window.BASEURL+\"/\";\n			$scope.count = <?php echo $count ?> || 0;\n			$scope.cache = <?php echo $cache ?>;\n			$scope.latest = \"<?php echo $_SESSION['reporte_tiempo'] ?>\";\n\n			var template = function(p){\n				progress:p\n			}\n\n			$scope.CalifDesemp = new template(0)\n			$scope.CompassTest = new template(0)\n\n			$scope.CompassFinal;\n\n			$scope.items=[];\n\n			var url=$scope.baseurl+\"reporte/\"\n\n			$scope.getCalifDesemp = function(lim){\n				console.log($scope.CalifDesemp)\n				tmp_url = url + \"calificacion_desemp/\";\n				var result = $http.get(tmp_url+lim+\"/2015\",{cache: true,params:{\"lim\": lim}});\n				result.success(function(data){\n					var next = lim+10\n					var p = next * 100 / $scope.count;\n					if(lim<$scope.count){\n						$scope.CalifDesemp.progress = p\n						$scope.getCalifDesemp(next);\n					}else{\n						$scope.CalifDesemp.progress = 100\n						// $scope.getCompassTest()\n					}\n				});\n			}\n\n			$scope.getCompassTest = function(){\n				tmp_url = url + \"compass_test/\";\n				var result = $http.get(tmp_url,{cache: true});\n				result.success(function(data){\n					$scope.CompassFinal = data;\n					$scope.CompassTest.progress = 100\n						$scope.getCompassEvaluado()\n				});\n			}\n\n			$scope.getCompassEvaluado = function(){\n				tmp_url = url + \"compass_evaluado/\";\n				var result = $http.get(tmp_url,{cache: true});\n				result.success(function(data){\n					// $scope.CompassFinal = data;\n					// $scope.CompassTest.progress = 100\n				});\n			}\n\n			if(!$scope.cache){\n				$scope.getCalifDesemp(0);\n				// $scope.getCompassTest()\n			}else{\n				// $scope.getCompassTest()\n				$scope.CalifDesemp.progress = 100\n				$scope.CompassTest.progress = 100\n			}\n\n		});\n	</script>\n	<?php  \n}\n?>",
+			"file": "application/views/reporte/respaldo.php",
+			"file_size": 3632,
+			"file_write_time": 131108164610256602,
+			"settings":
+			{
+				"buffer_size": 3516,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/models/scorer_obj.php",
+			"settings":
+			{
+				"buffer_size": 337,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/models/scorer_estado.php",
+			"settings":
+			{
+				"buffer_size": 5725,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/reporte/test.php",
+			"settings":
+			{
+				"buffer_size": 2862,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/controllers/reportecontroller.php",
+			"settings":
+			{
+				"buffer_size": 4232,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "library/model.class.php",
+			"settings":
+			{
+				"buffer_size": 25973,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/test/sql.sql",
+			"settings":
+			{
+				"buffer_size": 219,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/maki/wp-content/plugins/woocommerce/templates/archive-product.php",
+			"settings":
+			{
+				"buffer_size": 2865,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/models/multifuente_evaluado.php",
+			"settings":
+			{
+				"buffer_size": 3734,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/controllers/ajaxcontroller.php",
+			"settings":
+			{
+				"buffer_size": 15435,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"st",
+				"ST: List connections"
+			],
+			[
+				"settins ",
+				"ST: Settings – User"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"livereload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live",
+				"LiveReload: Self test"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"j",
+				"Set Syntax: JSON"
+			],
+			[
+				"st: ",
+				"ST: Execute"
+			],
+			[
+				"st:",
+				"ST: Settings – User"
+			],
+			[
+				"post",
+				"Snippet: POST['…']"
+			],
+			[
+				"st sett",
+				"ST: Settings – User"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set",
+				"Set Syntax: SQL"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack remov",
+				"Package Control: Remove Repository"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"remove paga",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"show ",
+				"ST: Show Table Records"
+			],
+			[
+				"setup",
+				"ST: Setup Connections"
+			],
+			[
+				"hmt",
+				"Set Syntax: HTML"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"hex",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"SQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"set s",
+				"Set Syntax: SQL"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"set sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"if",
+				"Snippet: <?php if (…) ?> … <?php else ?> … <?php endif ?>"
+			],
+			[
+				"PHP ",
+				"Set Syntax: PHP"
+			],
+			[
+				"lint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"sni",
+				"Snippet: <?php if (…) ?> … <?php endif ?>"
+			],
+			[
+				"lint this",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"sublimelinter",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"mode",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"subl",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet",
+				"Snippet: <?php if (…) ?> … <?php else ?> … <?php endif ?>"
+			],
+			[
+				"constr",
+				"Snippet: function __construct"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 827.0,
+		"history":
+		[
+			"3+21+76+6+41+4",
+			"clean",
+			"os.system(\"clear\")",
+			"os.system('cls')",
+			"clear()",
+			"clear = lambda: os.system('cls')",
+			"import os",
+			"clear()",
+			"clear",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"print('\\n'*100)",
+			"os.system(\"clear\")",
+			"where tidy.exe;",
+			"where tidy",
+			"exit",
+			"clean",
+			"clear();",
+			"clear()",
+			"clear",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/aldes",
+		"/C/xampp/htdocs/aldes/application",
+		"/C/xampp/htdocs/aldes/application/views",
+		"/C/xampp/htdocs/aldes/library",
+		"/C/xampp/htdocs/aldes/public"
+	],
+	"file_history":
+	[
+		"/C/Users/Pablo/AppData/Local/Temp/fz3temp-1/admin.php",
+		"/C/Users/Pablo/Downloads/_B/MissB/jbplace.txt",
+		"/C/xampp/htdocs/maki/wp-content/plugins/woocommerce/templates/content-product_cat.php",
+		"/C/xampp/htdocs/maki/wp-content/plugins/woocommerce/templates/content-product.php",
+		"/C/Users/Pablo/AppData/Local/Temp/fz3temp-1/share.php",
+		"/C/xampp/htdocs/aldes/application/models/listado_personal_op.php",
+		"/C/xampp/htdocs/maki/wp-content/themes/cortana/woocommerce/content-product_cat.php",
+		"/C/xampp/htdocs/aldes/application/controllers/reportecontroller.php",
+		"/C/xampp/htdocs/aldes/application/views/multifuente/resultados.php",
+		"/C/xampp/htdocs/aldes/application/views/reporte/respaldo.php",
+		"/C/xampp/htdocs/aldes/application/models/multifuente_evaluado.php",
+		"/C/xampp/htdocs/aldes/application/views/reporte/test.php",
+		"/C/xampp/htdocs/maki/wp-content/themes/cortana/woocommerce/archive-product.php",
+		"/C/xampp/htdocs/maki/wp-content/themes/cortana/woocommerce/content-product.php",
+		"/C/xampp/htdocs/maki/wp-content/themes/cortana/templates/content-page.php",
+		"/C/xampp/htdocs/maki/wp-content/themes/cortana/header.php",
+		"/C/xampp/htdocs/maki/wp-content/themes/cortana/functions.php",
+		"/C/xampp/htdocs/maki/index2.php",
+		"/C/xampp/htdocs/aldes/application/views/test/sql.sql",
+		"/C/xampp/htdocs/aldes/library/model.class.php",
+		"/C/xampp/htdocs/aldes/application/models/multifuente_test.php",
+		"/C/xampp/htdocs/aldes/application/controllers/ajaxcontroller.php",
+		"/C/Users/Pablo/AppData/Local/Temp/fz3temp-1/content.php",
+		"/C/Users/Pablo/Downloads/next media/maki/makitheme/licensing/README_License.txt",
+		"/C/Users/Pablo/Downloads/next media/maki/makitheme/licensing/osl.txt",
+		"/C/Users/Pablo/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Pablo/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/Users/Pablo/AppData/Local/Temp/fz3temp-1/index.blade.php",
+		"/C/xampp/htdocs/aldes/application/models/scorecard.php",
+		"/C/xampp/htdocs/aldes/application/models/scorer_estado.php",
+		"/C/xampp/htdocs/aldes/application/controllers/testcontroller.php",
+		"/C/xampp/htdocs/aldes/application/views/test/matriz.php",
+		"/C/xampp/htdocs/aldes/library/template.class.php",
+		"/C/xampp/htdocs/aldes/library/shared.php",
+		"/C/xampp/htdocs/aldes/library/controller.class.php",
+		"/C/xampp/htdocs/aldes/application/controllers/iniciocontroller.php",
+		"/C/xampp/htdocs/aldes/application/models/log_actividad.php",
+		"/C/xampp/htdocs/aldes/application/controllers/multifuentecontroller.php",
+		"/C/xampp/htdocs/aldes/application/views/ajax/page_load.php",
+		"/C/xampp/htdocs/aldes/public/js/admin/script.js",
+		"/C/xampp/htdocs/aldes/application/views/navbar/user.php",
+		"/C/xampp/htdocs/aldes/application/views/navbar/empresa.php",
+		"/C/xampp/htdocs/aldes/library/util.class.php",
+		"/C/xampp/htdocs/aldes/application/controllers/pdfcontroller.php",
+		"/C/xampp/htdocs/aldes/config/config.php",
+		"/C/xampp/htdocs/aldes/application/views/user/home.php",
+		"/C/Users/Pablo/Desktop/modelamiento.txt",
+		"/C/xampp/htdocs/aldes/application/views/scorecard/confirmacion.php",
+		"/C/xampp/htdocs/aldes/application/views/header.php",
+		"/C/xampp/htdocs/aldes/application/views/reporte/header.php.php",
+		"/C/xampp/htdocs/aldes/application/views/reporte/header.php",
+		"/C/xampp/htdocs/aldes/application/views/reporte/footer.php",
+		"/C/xampp/htdocs/test/index.php",
+		"/C/Users/Pablo/AppData/Local/Temp/fz3temp-1/config.php",
+		"/C/Users/Pablo/AppData/Local/Temp/fz3temp-1/error.log",
+		"/C/xampp/htdocs/aldes/application/controllers/personalcontroller.php",
+		"/C/xampp/htdocs/aldes/application/views/personal/editar_datos_empresa.php",
+		"/C/xampp/htdocs/aldes/application/views/user/view.php",
+		"/C/xampp/htdocs/aldes/application/views/empresa/consolidado.php",
+		"/C/Users/Pablo/AppData/Local/Temp/fz3temp-1/home.php",
+		"/C/xampp/htdocs/aldes/application/models/personal_hlaboral.php",
+		"/C/xampp/htdocs/aldes/application/views/personal/datos_personales.php",
+		"/C/xampp/htdocs/aldes/application/models/personal_dato.php",
+		"/C/xampp/htdocs/aldes/application/controllers/usercontroller.php",
+		"/C/xampp/htdocs/aldes/application/models/personal_idioma.php",
+		"/C/xampp/htdocs/aldes/application/controllers/empresacontroller.php",
+		"/C/xampp/htdocs/aldes/application/views/personal/datos_empresa.php",
+		"/C/xampp/htdocs/aldes/application/views/admin/empresa_ingreso.php",
+		"/C/xampp/htdocs/aldes/application/controllers/admincontroller.php",
+		"/C/xampp/htdocs/aldes/application/views/admin/viewall.php",
+		"/C/xampp/htdocs/mariocoka.com/libraries/joomla/database/database/mysqli.php",
+		"/C/xampp/htdocs/mariocoka.com/dev/css/style.css",
+		"/C/xampp/htdocs/mariocoka.com/dev/index.php",
+		"/C/xampp/htdocs/mariocoka.com/includes/database.mysqli.php",
+		"/C/xampp/htdocs/mariocoka.com/includes/database.php",
+		"/C/xampp/htdocs/mariocoka.com/includes/framework.php",
+		"/C/xampp/htdocs/mariocoka.com/includes/joomla.php",
+		"/C/xampp/htdocs/mariocoka.com/libraries/joomla/database/database/mysql.php",
+		"/C/xampp/htdocs/mariocoka.com/libraries/joomla/database/database/index.html",
+		"/C/xampp/htdocs/mariocoka.com/libraries/joomla/database/table.php",
+		"/C/xampp/htdocs/mariocoka.com/libraries/joomla/database/recordset.php",
+		"/C/xampp/htdocs/mariocoka.com/libraries/joomla/database/index.html",
+		"/C/xampp/htdocs/mariocoka.com/libraries/joomla/database/database.php",
+		"/C/xampp/htdocs/mariocoka.com/libraries/joomla/base/observable.php",
+		"/C/xampp/htdocs/mariocoka.com/libraries/joomla/base/index.html",
+		"/C/xampp/htdocs/mariocoka.com/libraries/joomla/base/tree.php",
+		"/C/xampp/htdocs/mariocoka.com/libraries/joomla/base/object.php",
+		"/C/xampp/htdocs/aldes/application/views/ajax/consolidado_empresa.php",
+		"/C/xampp/htdocs/aldes/application/views/personal/viewall.php",
+		"/C/xampp/htdocs/aldes/application/models/personal_premio.php",
+		"/C/xampp/htdocs/aldes/library/sqlquery.class.php",
+		"/C/Users/Pablo/Documents/Fuse/FacebookLogin/Auth.js",
+		"/C/xampp/htdocs/aldes/application/views/multifuente/plan.php",
+		"/C/Users/Pablo/Downloads/FacebookLogin/MainView.ux",
+		"/C/Users/Pablo/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/Pablo/AppData/Roaming/Sublime Text 3/Installed Packages/SublimeLinter-html-tidy.sublime-package",
+		"/C/xampp/htdocs/aldes/application/views/user/asignar_relacion.php",
+		"/C/xampp/htdocs/aldes/application/controllers/scorecardcontroller.php",
+		"/C/xampp/htdocs/aldes/application/views/scorecard/home.php",
+		"/C/xampp/htdocs/aldes/application/views/scorecard/jefe_periodo.php",
+		"/C/xampp/htdocs/mariocoka.com/administrator/index.php",
+		"/C/xampp/htdocs/mariocoka.com/configuration.php",
+		"/C/xampp/htdocs/mariocoka.com/robots.txt",
+		"/C/xampp/htdocs/mariocoka.com/INSTALL.php",
+		"/C/Users/Pablo/AppData/Local/Temp/fz3temp-1/robots.txt",
+		"/C/Users/Pablo/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/xampp/htdocs/mariocoka.com/index.php",
+		"/C/xampp/htdocs/mariocoka.com/images/routers.php",
+		"/C/xampp/htdocs/aldes/application/views/user/consolidado.php",
+		"/C/xampp/htdocs/aldes/application/views/scorecard/admin.php",
+		"/C/xampp/htdocs/aldes/application/views/ajax/scorecard_admin.php",
+		"/C/xampp/htdocs/aldes/application/views/riesgo_psicosocial/construccion.php",
+		"/C/xampp/htdocs/aldes/application/views/riesgo_psicosocial/evaluacion.php",
+		"/C/xampp/htdocs/sql/index.php",
+		"/C/xampp/htdocs/martharios/style.css",
+		"/C/xampp/htdocs/martharios/index.php",
+		"/C/xampp/htdocs/hereandnow/style.css",
+		"/C/xampp/htdocs/hereandnow/index.php",
+		"/C/xampp/htdocs/aldes/application/views/multifuente/resultados_evaluados.php",
+		"/C/xampp/htdocs/aldes/application/models/empresa_cargo.php",
+		"/C/xampp/htdocs/aldes/application/views/empresa/cargo.php",
+		"/C/Users/Pablo/AppData/Roaming/Sublime Text 3/Packages/User/SQLToolsConnections.sublime-settings",
+		"/C/Users/Pablo/AppData/Roaming/Sublime Text 3/Packages/User/SQLTools.sublime-settings",
+		"/C/xampp/htdocs/aldes/application/views/multifuente/resultados_departamentos.php",
+		"/C/xampp/htdocs/aldes/application/views/sonda/clima_laboral.php",
+		"/C/xampp/htdocs/aldes/application/controllers/sondacontroller.php",
+		"/C/xampp/htdocs/aldes/application/views/sonda/tema.php",
+		"/C/xampp/htdocs/aldes/application/models/sonda_respuesta.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"post",
+			"getCompassTest",
+			"compass_test",
+			"mt",
+			"compass_test",
+			"test",
+			"i sset",
+			"*",
+			"/*",
+			";",
+			"localhost/maki",
+			"<td>",
+			"echo",
+			"//",
+			"$value_['cod_tema']",
+			"$value_",
+			"$me->",
+			",$cod_test",
+			"$value",
+			"echo",
+			"$cod_evaluado",
+			"cod_evaluado",
+			"php",
+			"$x",
+			"$b",
+			"me",
+			"meth",
+			"where",
+			"htmlprnt",
+			"CalifDesemp",
+			"<",
+			"<?php",
+			"truncate",
+			"ellipsis",
+			"eli",
+			"elip",
+			"el",
+			"elli",
+			"col-sm-3",
+			"true",
+			"false",
+			"count",
+			"true",
+			"let url",
+			"fun_url",
+			"data",
+			"scorer",
+			"ON DELETE CASCADE ON UPDATE CASCADE",
+			"ON DELETE CASCADE ON UPDATE CASCADE;\nALTER TABLE `multifuente_evaluado` ENGINE=InnoDB",
+			"scorer_oportunidades",
+			"id_personal",
+			"timeout",
+			"ajax_link",
+			"ajax-link",
+			"height=\"38\" />",
+			"</td>",
+			"legend",
+			"//",
+			"//'`valoracion",
+			"success",
+			"value",
+			"success",
+			"google",
+			"google.maps.event.addDomListener(window, 'load', ini_ub);",
+			"<option value=\"\" selected=\"selected\">-- Seleccionar una opci&oacute;n --</option>",
+			"cargo",
+			"<?php",
+			"return",
+			"get_name",
+			"get_pname",
+			"get_codEval",
+			"getSubalternos",
+			"google",
+			"get_pname",
+			"get_empdat",
+			"compass",
+			"get_matriz",
+			"get_codEval",
+			"getSubalternos",
+			"arrWalkSel",
+			"arrCreate__",
+			"arrCreate",
+			"arrWalk",
+			"idPersonalWalk",
+			"personalWalk",
+			"htmlImage",
+			"image_data",
+			"image_prep",
+			"get_relations",
+			"if_match",
+			"DB_exists",
+			"get_dCond",
+			"SelectColFrom",
+			"selected",
+			"xxx",
+			"value",
+			"<option value=\"0\">Muy básico</option>\n              <option value=\"1\">Básico</option>\n              <option value=\"2\">Intermedio</option>\n              <option value=\"3\">Avanzado</option>\n              <option value=\"4\">Nativo</option>",
+			"case",
+			"return $this->",
+			"</option>",
+			"obj",
+			"idioma",
+			"name",
+			"<select>",
+			"value",
+			"premios",
+			"j",
+			"idiom",
+			"Escrito",
+			"idiom",
+			"Idiom",
+			"idiom",
+			"if(isset($fields",
+			"institucion",
+			"value",
+			"_hasta",
+			"->",
+			"Entendimiento",
+			"pi_",
+			"->",
+			"$pi",
+			"pi_idioma",
+			"dataTablei",
+			"per_id",
+			"value",
+			"fecha_desde",
+			"pi_",
+			"Idioma"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"278",
+			"id'];\n		$tmp['nombre'] = $ea->htmlprnt_win($value['nombre_']);\n		array_push($final, $tmp);",
+			"\n					",
+			"foreach ($res as $key => $value) {\n		$tmp['id'] = $value['id'];\n		$tmp['nombre'] = $ea->htmlprnt_win($value['nombre_']);\n		array_push($final, $tmp);\n	}",
+			"_POST",
+			"}\n",
+			"\n	",
+			"Lugar",
+			">\n",
+			"\n				$GLOBALS['model_x'] = $controller;\n				$GLOBALS['action_x'] = $action;\n		",
+			"aldes",
+			"\n					",
+			"\n		",
+			"	    $",
+			";\n",
+			"();\n",
+			"10",
+			"	</",
+			"\n		",
+			"?>\n",
+			" ",
+			"",
+			"}\n",
+			"\n		",
+			");\n",
+			"\n 			",
+			"Corporación El Mérito S.A. ",
+			" ",
+			"",
+			"compass_360",
+			"insert();",
+			"$_SESSION['Emoresa']['id']",
+			"mysqli_error($GLOBALS[\"link\"])",
+			"$this->User",
+			"<legend class=\"col-md-12\">",
+			"<legend class=\"col-md-6\">",
+			"$this->User->",
+			"",
+			"$this->Personal->",
+			"",
+			"LINKHERE",
+			"",
+			"get_empdat($id,$cod_evaluado);",
+			"get_empdat($id,cod_evaluado);",
+			"$this->Multifuente->",
+			"function ",
+			"",
+			"#empresa/",
+			"$this->Empresa->",
+			"$this->User->",
+			"$this->Empresa->",
+			">",
+			"<",
+			"$lenght",
+			"$this->Admin",
+			"M",
+			"'.$x.'",
+			"$this->User",
+			"$b",
+			"$car",
+			"$dat",
+			"$b",
+			"$this->Admin->",
+			"ucwords",
+			"<label class=\"col-sm-2\">",
+			"form-group",
+			"sm",
+			"BASEURL+'plugins",
+			"tipo_contratos",
+			"empresa",
+			"$localidades",
+			"$condicionadores",
+			"$cargos",
+			"$areas",
+			"",
+			"\"",
+			"http://localhost/altodesempenioV2/",
+			"h4",
+			"",
+			"ul",
+			"",
+			"ul",
+			"_"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/views/reporte/respaldo.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3516,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2641,
+								2641
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 574.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/models/scorer_obj.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/models/scorer_estado.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5725,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2964,
+								2964
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2266.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "application/views/reporte/test.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2862,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1273,
+								1289
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 294.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "application/controllers/reportecontroller.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1635,
+								1645
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 462.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "library/model.class.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25973,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19025,
+								19025
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6592.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "application/views/test/sql.sql",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								219,
+								219
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQL/SQL.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/xampp/htdocs/maki/wp-content/plugins/woocommerce/templates/archive-product.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2865,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 685.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "application/models/multifuente_evaluado.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3734,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2529,
+								2517
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1482.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "application/controllers/ajaxcontroller.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15435,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.FuseBuildResults":
+	{
+		"height": 88.0
+	},
+	"output.FuseError":
+	{
+		"height": 94.0
+	},
+	"output.SQLExec.errors":
+	{
+		"height": 118.0
+	},
+	"output.ST":
+	{
+		"height": 181.0
+	},
+	"output.ST.errors":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 112.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 88.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "alto.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"scorerestado",
+				"application\\models\\scorer_estado.php"
+			],
+			[
+				"scorer",
+				"application\\models\\scorer_obj.php"
+			],
+			[
+				"test",
+				"application\\views\\reporte\\test.php"
+			],
+			[
+				"multifuenteeval",
+				"application\\models\\multifuente_evaluado.php"
+			],
+			[
+				"sql",
+				"application\\views\\test\\sql.sql"
+			],
+			[
+				"ajaxco",
+				"application\\controllers\\ajaxcontroller.php"
+			],
+			[
+				"repor",
+				"application\\controllers\\reportecontroller.php"
+			],
+			[
+				"reporterespa",
+				"application\\views\\reporte\\respaldo.php"
+			],
+			[
+				"multifuente",
+				"application\\models\\multifuente_evaluado.php"
+			],
+			[
+				"multifuenteevaluado",
+				"application\\models\\multifuente_evaluado.php"
+			],
+			[
+				"lista",
+				"application\\models\\listado_personal_op.php"
+			],
+			[
+				"multifuenteresultados",
+				"application\\views\\multifuente\\resultados.php"
+			],
+			[
+				"reporterespaldo",
+				"application\\views\\reporte\\respaldo.php"
+			],
+			[
+				"ajax",
+				"application\\controllers\\ajaxcontroller.php"
+			],
+			[
+				"repo",
+				"application\\controllers\\reportecontroller.php"
+			],
+			[
+				"pdf",
+				"application\\controllers\\pdfcontroller.php"
+			],
+			[
+				"contr",
+				"library\\controller.class.php"
+			],
+			[
+				"share",
+				"library\\shared.php"
+			],
+			[
+				"template",
+				"library\\template.class.php"
+			],
+			[
+				"testco",
+				"application\\controllers\\testcontroller.php"
+			],
+			[
+				"matriz",
+				"application\\views\\test\\matriz.php"
+			],
+			[
+				"scorerestad",
+				"application\\models\\scorer_estado.php"
+			],
+			[
+				"modelscorecard",
+				"application\\models\\scorecard.php"
+			],
+			[
+				"respaldo",
+				"application\\views\\reporte\\respaldo.php"
+			],
+			[
+				"report",
+				"application\\controllers\\reportecontroller.php"
+			],
+			[
+				"ini",
+				"application\\controllers\\iniciocontroller.php"
+			],
+			[
+				"mul",
+				"application\\controllers\\multifuentecontroller.php"
+			],
+			[
+				"pdfcon",
+				"application\\controllers\\pdfcontroller.php"
+			],
+			[
+				"conrto",
+				"library\\controller.class.php"
+			],
+			[
+				"heade",
+				"application\\views\\header.php"
+			],
+			[
+				"page_load",
+				"application\\views\\ajax\\page_load.php"
+			],
+			[
+				"script",
+				"public\\js\\admin\\script.js"
+			],
+			[
+				"navbaruser",
+				"application\\views\\navbar\\user.php"
+			],
+			[
+				"scorecardcon",
+				"application\\views\\scorecard\\confirmacion.php"
+			],
+			[
+				"viewsrepo",
+				"application\\views\\reporte\\respaldo.php"
+			],
+			[
+				"reportere",
+				"application\\controllers\\reportecontroller.php"
+			],
+			[
+				"reporte",
+				"application\\controllers\\reportecontroller.php"
+			],
+			[
+				"navbarempre",
+				"application\\views\\navbar\\empresa.php"
+			],
+			[
+				"userhome",
+				"application\\views\\user\\home.php"
+			],
+			[
+				"confi",
+				"config\\config.php"
+			],
+			[
+				"util",
+				"library\\util.class.php"
+			],
+			[
+				"personalcon",
+				"application\\controllers\\personalcontroller.php"
+			],
+			[
+				"editardatosempresa",
+				"application\\views\\personal\\editar_datos_empresa.php"
+			],
+			[
+				"perso",
+				"application\\controllers\\personalcontroller.php"
+			],
+			[
+				"person",
+				"application\\models\\personal_idioma.php"
+			],
+			[
+				"datos",
+				"application\\views\\personal\\datos_personales.php"
+			],
+			[
+				"user",
+				"application\\controllers\\usercontroller.php"
+			],
+			[
+				"modelclass",
+				"library\\model.class.php"
+			],
+			[
+				"userview",
+				"application\\views\\user\\view.php"
+			],
+			[
+				"sc",
+				"public\\js\\admin\\script.js"
+			],
+			[
+				"datosem",
+				"application\\views\\personal\\datos_empresa.php"
+			],
+			[
+				"editar_",
+				"application\\views\\personal\\editar_datos_empresa.php"
+			],
+			[
+				"empresa",
+				"application\\controllers\\empresacontroller.php"
+			],
+			[
+				"admincon",
+				"application\\controllers\\admincontroller.php"
+			],
+			[
+				"adminempresa_ing",
+				"application\\views\\admin\\empresa_ingreso.php"
+			],
+			[
+				"adminviewall",
+				"application\\views\\admin\\viewall.php"
+			],
+			[
+				"datosempresa",
+				"application\\views\\personal\\datos_empresa.php"
+			],
+			[
+				"multifuenteeva",
+				"application\\models\\multifuente_evaluado.php"
+			],
+			[
+				"consoli",
+				"application\\views\\ajax\\consolidado_empresa.php"
+			],
+			[
+				"empresaconsolida",
+				"application\\views\\empresa\\consolidado.php"
+			],
+			[
+				"personal_pre",
+				"application\\models\\personal_premio.php"
+			],
+			[
+				"personalview",
+				"application\\views\\personal\\viewall.php"
+			],
+			[
+				"view",
+				"application\\views\\user\\view.php"
+			],
+			[
+				"scr",
+				"public\\js\\admin\\script.js"
+			],
+			[
+				"header",
+				"application\\views\\header.php"
+			],
+			[
+				"plan",
+				"application\\views\\multifuente\\plan.php"
+			],
+			[
+				"datos_",
+				"application\\views\\personal\\datos_empresa.php"
+			],
+			[
+				"score",
+				"application\\controllers\\scorecardcontroller.php"
+			],
+			[
+				"scorecardhome",
+				"application\\views\\scorecard\\home.php"
+			],
+			[
+				"jefe_periodo",
+				"application\\views\\scorecard\\jefe_periodo.php"
+			],
+			[
+				"asignar_rela",
+				"application\\views\\user\\asignar_relacion.php"
+			],
+			[
+				"personalidim",
+				"application\\models\\personal_idioma.php"
+			],
+			[
+				"multifuenteevalu",
+				"application\\models\\multifuente_evaluado.php"
+			],
+			[
+				"listado",
+				"application\\models\\listado_personal_op.php"
+			],
+			[
+				"scri",
+				"public\\js\\admin\\script.js"
+			],
+			[
+				"head",
+				"application\\views\\header.php"
+			],
+			[
+				"ajaxcontro",
+				"application\\controllers\\ajaxcontroller.php"
+			],
+			[
+				"scorecardadmin",
+				"application\\views\\scorecard\\admin.php"
+			],
+			[
+				"datos_per",
+				"application\\views\\personal\\datos_personales.php"
+			],
+			[
+				"premio",
+				"application\\models\\personal_premio.php"
+			],
+			[
+				"personalidio",
+				"application\\models\\personal_idioma.php"
+			],
+			[
+				"viewsriesgo",
+				"application\\views\\riesgo_psicosocial\\evaluacion.php"
+			],
+			[
+				"viewsriesgo_ps",
+				"application\\views\\riesgo_psicosocial\\construccion.php"
+			],
+			[
+				"personalhla",
+				"application\\models\\personal_hlaboral.php"
+			],
+			[
+				"datos_person",
+				"application\\views\\personal\\datos_personales.php"
+			],
+			[
+				"resultados_eva",
+				"application\\views\\multifuente\\resultados_evaluados.php"
+			],
+			[
+				"empresa_car",
+				"application\\models\\empresa_cargo.php"
+			],
+			[
+				"empresacargo",
+				"application\\views\\empresa\\cargo.php"
+			],
+			[
+				"empresa_cargo",
+				"application\\models\\empresa_cargo.php"
+			],
+			[
+				"config",
+				"config\\config.php"
+			],
+			[
+				"testcontr",
+				"application\\controllers\\testcontroller.php"
+			],
+			[
+				"multi",
+				"application\\controllers\\multifuentecontroller.php"
+			],
+			[
+				"resultados_",
+				"application\\views\\multifuente\\resultados_departamentos.php"
+			],
+			[
+				"sonda",
+				"application\\views\\sonda\\clima_laboral.php"
+			],
+			[
+				"riesgoeval",
+				"application\\views\\riesgo_psicosocial\\evaluacion.php"
+			],
+			[
+				"model",
+				"library\\model.class.php"
+			],
+			[
+				"sondacontro",
+				"application\\controllers\\sondacontroller.php"
+			],
+			[
+				"clima_lab",
+				"application\\views\\sonda\\clima_laboral.php"
+			],
+			[
+				"sondatema",
+				"application\\views\\sonda\\tema.php"
+			],
+			[
+				"riesgo",
+				"application\\views\\test\\riesgo_retencion.php"
+			],
+			[
+				"empresa_carg",
+				"application\\models\\empresa_cargo.php"
+			],
+			[
+				"empresacontroller",
+				"application\\controllers\\empresacontroller.php"
+			],
+			[
+				"empresacon",
+				"application\\views\\empresa\\consolidado.php"
+			],
+			[
+				"testriesgo",
+				"application\\views\\test\\riesgo_retencion.php"
+			],
+			[
+				"empre",
+				"application\\controllers\\empresacontroller.php"
+			],
+			[
+				"mu",
+				"application\\controllers\\multifuentecontroller.php"
+			],
+			[
+				"plan_de_acc",
+				"application\\views\\multifuente\\plan_de_accion.php"
+			],
+			[
+				"plan_de_ac",
+				"application\\views\\multifuente\\plan_de_accion.php"
+			],
+			[
+				"",
+				"C:\\xampp\\htdocs\\aromas\\wp-content\\themes\\milli\\custom.css"
+			],
+			[
+				"viewall",
+				"application\\views\\personal\\viewall.php"
+			],
+			[
+				"consolidado",
+				"application\\views\\empresa\\consolidado.php"
+			],
+			[
+				"em",
+				"application\\controllers\\empresacontroller.php"
+			],
+			[
+				"consolida",
+				"application\\views\\empresa\\consolidado.php"
+			],
+			[
+				"empresa_tco",
+				"application\\models\\empresa_tcont.php"
+			],
+			[
+				"empresa_norg",
+				"application\\models\\empresa_norg.php"
+			],
+			[
+				"empresaconsoli",
+				"application\\views\\empresa\\consolidado.php"
+			],
+			[
+				"shared",
+				"library\\shared.php"
+			],
+			[
+				"confirmacion",
+				"application\\views\\scorecard\\confirmacion.php"
+			],
+			[
+				"empresta",
+				"application\\models\\empresa_tcont.php"
+			],
+			[
+				"testing",
+				"application\\views\\test\\testing1.php"
+			],
+			[
+				"aja",
+				"application\\controllers\\ajaxcontroller.php"
+			],
+			[
+				"genera",
+				"application\\views\\scorecard\\generacion.php"
+			],
+			[
+				"empresaconsol",
+				"application\\views\\empresa\\consolidado.php"
+			],
+			[
+				"scorer_est",
+				"application\\models\\scorer_estado.php"
+			],
+			[
+				"empresa_are",
+				"application\\models\\empresa_area.php"
+			],
+			[
+				"scorer_estado",
+				"application\\models\\scorer_estado.php"
+			],
+			[
+				"estado_",
+				"application\\views\\scorecard\\estado_proceso.php"
+			],
+			[
+				"estado_proce",
+				"application\\views\\scorecard\\estado_proceso.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\redux2\\redux.sublime-project"
+			],
+			[
+				"avi",
+				"C:\\xampp\\htdocs\\avis\\wp-content\\themes\\Avis\\avis.sublime-project"
+			],
+			[
+				"avis",
+				"C:\\xampp\\htdocs\\avis_algo\\avis_algo.sublime-project"
+			],
+			[
+				"alt",
+				"C:\\xampp\\htdocs\\altodesempenioMVC\\alto.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 354.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

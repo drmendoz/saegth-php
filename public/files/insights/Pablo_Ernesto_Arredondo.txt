@@ -1,0 +1,154 @@
+Alto Desempeño - Evaluacion Insights
+Nombre:Pablo Ernesto Arredondo 
+Cargo:Gerente Produccion
+Departamento: Logistica
+Pregunta 1: 
+Cuidadoso y evaluador-->P
+Leal y amable -->4
+Influyente y expresivo -->2
+Estratégico y exigente -->M
+
+Pregunta 2: 
+Amigable y dinámico -->2
+Confiable y moderado -->P
+Enérgico y orientado a resultados -->3
+Metódico y lógico -->M
+
+Pregunta 3: 
+Tranquilo y mediador -->4
+Decidído y dominante -->3
+Optimista y alegre -->M
+Exacto y objetivo -->P
+
+Pregunta 4: 
+Seguro de si mismo e intenso -->5
+Ordenado y conciso -->1
+Estable y de trato fácil -->M
+Conversador y simpático -->P
+
+Pregunta 5: 
+Estructurado y claro -->M
+Desafiante y directo -->1
+Leal y adaptable -->P
+Sociable y activo -->2
+
+Pregunta 6: 
+Complaciente y colaborador -->M
+Expresivo y optimista -->P
+Enérgico y autoritario -->5
+Pensativo y auto-controlado -->1
+
+Pregunta 7: 
+Efusivo y persuasivo -->P
+Reflexivo y suspicaz -->5
+Con iniciativa y confianza en si mismo-->M
+Calmado y considerado con los demas -->1
+
+Pregunta 8: 
+Seguro de si mismo y con determinación -->2
+Extrovertido y alegre -->M
+Fiel y solidario -->P
+Coherente y preciso -->5
+
+Pregunta 9: 
+Sensible y diplomatico -->M
+Preciso y prudente -->2
+Entusiasta y alentador -->P
+Rápido y orientado a resultados -->3
+
+Pregunta 10: 
+Dominante y firme -->P
+Conciliador y reservado -->2
+Sociable y animado -->M
+Minucioso y detallista -->3
+
+Pregunta 11: 
+Centrado en el equipo y espontáneo -->M
+Exacto y racional -->P
+Amistoso y equilibrado -->5
+Centrado en la tarea y franco -->4
+
+Pregunta 12: 
+Analítico y meticuloso -->P
+Amistoso y divertido -->M
+Competitivo y fuerte -->5
+Ecuánime y cooperativo -->1
+
+Pregunta 13: 
+De trato personal y apacible -->P
+Abierto y empático -->M
+Observador y formal -->5
+Activo y controlador -->4
+
+Pregunta 14: 
+Resuelto y capaz de imponerse -->3
+Perfeccionista y cuestionador -->M
+Entusiasta y encantador -->4
+Comprensivo y pacificador -->P
+
+Pregunta 15: 
+Sistemático y escrupuloso -->1
+Popular y amante de la diversión -->M
+Moderador y promueve el equilibrio -->P
+Audaz y con determinación -->3
+
+Pregunta 16: 
+Animado y convincente -->2
+Decidido e inmediato -->M
+Analítico y disciplinado -->P
+Tolerante y sosegado -->3
+
+Pregunta 17: 
+Paciente y empático -->M
+Lógico y controlado -->3
+Centrado en el trabajo y competitivo -->P
+Platicador y espontáneo -->4
+
+Pregunta 18 
+Influyente e informal -->M
+Discreto e impulsado por valores -->1
+Imparcial y evaluador -->P
+Desafiante y autoritario -->5
+
+Pregunta 19: 
+Sistemático y preparado -->P
+Valiente e independiente -->M
+Imaginativo y extrovertido -->2
+Consejero y preocupado por los demás -->3
+
+Pregunta 20: 
+Le gusta mandar y orientado a la acción -->P
+Espontáneo y animado -->2
+Estudioso y racional -->M
+Pacificador y armonioso -->3
+
+Pregunta 21: 
+Organizado y juicioso -->4
+Paciente y colaborador -->M
+Fuerte y buen discutidor -->1
+Abierto y busca relacionarse -->P
+
+Pregunta 22: 
+Objetivo y audaz -->4
+Relajado y pacifico -->M
+Basado en los hechos y formal -->P
+Alegre y agradable -->2
+
+Pregunta 23: 
+Efusivo y entusiasta -->P
+Vigoroso y realista -->1
+Compasivo y considerado -->2
+Disciplinado y detallistao -->M
+
+Pregunta 24: 
+Constante y que apoya a los demas -->3
+Independiente y emprendedor -->M
+Reflexivo y minucioso -->5
+Comunicativo y positivo -->P
+
+Pregunta 25: 
+Cauto y preciso -->2
+Directo y franco -->M
+Expresivo y optimista -->P
+Tolerante y noble -->5
+

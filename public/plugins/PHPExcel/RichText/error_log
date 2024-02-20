@@ -1,0 +1,2 @@
+[25-Sep-2022 22:26:30 America/Denver] PHP Fatal error:  Class 'PHPExcel_RichText_TextElement' not found in /home/saegthco/public_html/public/plugins/PHPExcel/RichText/Run.php on line 26
+[25-Sep-2022 22:26:33 America/Denver] PHP Fatal error:  Interface 'PHPExcel_RichText_ITextElement' not found in /home/saegthco/public_html/public/plugins/PHPExcel/RichText/TextElement.php on line 27

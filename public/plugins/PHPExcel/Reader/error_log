@@ -1,0 +1,2 @@
+[25-Sep-2022 22:25:43 America/Denver] PHP Fatal error:  Interface 'PHPExcel_Reader_IReader' not found in /home/saegthco/public_html/public/plugins/PHPExcel/Reader/Abstract.php on line 29
+[25-Sep-2022 22:25:59 America/Denver] PHP Fatal error:  Class 'PHPExcel_Exception' not found in /home/saegthco/public_html/public/plugins/PHPExcel/Reader/Exception.php on line 29
